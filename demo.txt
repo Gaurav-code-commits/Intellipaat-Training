@@ -1,3 +1,2 @@
 This is the new file updated.
-Updated again..
-Example for git revert
+Updated again...
